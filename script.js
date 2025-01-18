@@ -87,3 +87,5 @@ document.querySelector(".again").addEventListener("click", function () {
   document.body.style.fontSize = "";
   document.querySelector(".number").style.color = "";
 });
+
+// Completed
